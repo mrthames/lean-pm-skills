@@ -270,3 +270,8 @@ This plugin includes focused skills for specific PM tasks. Skills load on invoca
 | [Build vs. Buy](skills/build-vs-buy/SKILL.md) | Evaluating build in-house vs. vendor vs. partner |
 | [Experiment Design](skills/experiment-design/SKILL.md) | Testing a hypothesis before committing to a full build |
 | [Roadmap Planning](skills/roadmap-planning/SKILL.md) | Translating strategy and OKRs into a sequenced plan |
+| [PRD Writing](skills/prd-writing/SKILL.md) | Writing a formal product requirements document |
+| [Epic Definition](skills/epic-definition/SKILL.md) | Structuring an epic with features, milestones, and success metrics |
+| [Feature Specification](skills/feature-specification/SKILL.md) | Detailing a feature with requirements, edge cases, and integration points |
+| [Story Writing](skills/story-writing/SKILL.md) | Writing developer-ready stories with testable acceptance criteria |
+| [Analytics & Insights](skills/analytics-insights/SKILL.md) | Deep product data investigation beyond routine dashboards |

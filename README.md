@@ -1,6 +1,6 @@
-![Version](https://img.shields.io/badge/version-1.1.0-blue?style=flat-square)
+![Version](https://img.shields.io/badge/version-1.2.0-blue?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
-![Skills](https://img.shields.io/badge/skills-17-orange?style=flat-square)
+![Skills](https://img.shields.io/badge/skills-22-orange?style=flat-square)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-Plugin-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![AI-Native](https://img.shields.io/badge/AI--Native_PM-ff6b35?style=flat-square)
 
@@ -79,10 +79,20 @@ See [CURSOR.md](CURSOR.md) for details.
 | **[Tech Debt Communication](skills/tech-debt-communication/SKILL.md)** | Quantify and communicate tech debt as a business investment case | 2-4 hours |
 | **[Competitive Response](skills/competitive-response/SKILL.md)** | Assess and respond to a competitor move within 24-48 hours | 2-4 hours |
 
+### 📝 Definition & Documentation
+
+| Skill | What It Does | Time |
+|---|---|---|
+| **[PRD Writing](skills/prd-writing/SKILL.md)** | Write a complete PRD from problem statement to builder-ready spec | 1-2 hours |
+| **[Epic Definition](skills/epic-definition/SKILL.md)** | Define an epic with strategic context, feature breakdown, and milestones | 1 hour |
+| **[Feature Specification](skills/feature-specification/SKILL.md)** | Detail a feature with requirements, edge cases, and integration points | 30-60 min |
+| **[Story Writing](skills/story-writing/SKILL.md)** | Write user stories with testable acceptance criteria and splitting guidance | 15-25 min |
+
 ### 📊 Operations & Analysis
 
 | Skill | What It Does | Time |
 |---|---|---|
+| **[Analytics & Insights](skills/analytics-insights/SKILL.md)** | Deep dive into product data — investigate questions, surface insights, build narratives | 1-2 hours |
 | **[Metrics Review](skills/metrics-review/SKILL.md)** | Regular metrics review — spot patterns, flag anomalies, build the data narrative | 30 minutes |
 | **[Growth & Retention Diagnostics](skills/growth-retention-diagnostics/SKILL.md)** | Diagnose churn and retention problems with cohort analysis and root cause identification | Half day |
 | **[Post-Mortem](skills/post-mortem/SKILL.md)** | Structured, blameless post-mortem after a failure or incident | 2-3 hours |
@@ -210,6 +220,36 @@ You've got OKRs, a backlog, some commitments, and a strategy — but they're in 
 **With Lean PM Skills:** [Roadmap Planning](skills/roadmap-planning/SKILL.md) translates your strategy and OKRs into a sequenced roadmap in 2-4 hours. Claude synthesizes your inputs, proposes sequencing based on dependencies and value, and generates three audience-specific views — a detailed view for the team, a timeline view for leadership, and a theme-based view for stakeholders. You apply the sequencing judgment and political reality.
 
 **What you get:** Sequenced roadmap with rationale, three audience-specific views (team, leadership, stakeholder), capacity analysis, and an explicit "not doing" list.
+
+---
+
+### 📝 "I need a PRD and engineering wants to start next week."
+
+You know what to build and why, but it's all in your head or scattered across Slack threads and meeting notes. Engineering needs a formal spec, and you don't have time to spend days writing one.
+
+**With Lean PM Skills:** [PRD Writing](skills/prd-writing/SKILL.md) takes you from problem statement to builder-ready PRD in 1-2 hours. Claude structures the problem framing, success metrics, scoped solution, user stories, edge cases, and readiness requirements. You provide the strategic context and make the scope calls. The output is structured so engineers and AI coding tools can start building directly from it.
+
+**What you get:** Complete PRD with problem statement, success metrics, v1 scope, user stories with acceptance criteria, edge cases, dependencies, risks, and readiness checklist.
+
+---
+
+### 📋 "This epic is too vague for the team to start working on."
+
+The initiative is approved but it's still one big block in the backlog. Engineering can't estimate it, design can't start exploring, and nobody's clear on what "done" looks like.
+
+**With Lean PM Skills:** [Epic Definition](skills/epic-definition/SKILL.md) breaks it into a structured epic in about an hour — strategic context, feature decomposition, milestones, dependencies, and success metrics. [Feature Specification](skills/feature-specification/SKILL.md) then details each feature with requirements, edge cases, and integration points. [Story Writing](skills/story-writing/SKILL.md) turns features into sprint-ready stories with testable acceptance criteria. The full hierarchy — epic to feature to story — in a single session.
+
+**What you get:** Structured epic with features, milestones, and success metrics. Detailed feature specs with edge cases. Developer-ready stories with Given/When/Then acceptance criteria.
+
+---
+
+### 📊 "The dashboard shows something changed but I don't know what's driving it."
+
+A metric moved — activation dipped, engagement spiked in one segment, conversion shifted after a release. The dashboard shows the what but not the why. You need to dig deeper before you can act.
+
+**With Lean PM Skills:** [Analytics & Insights](skills/analytics-insights/SKILL.md) structures a deep investigation in 1-2 hours. Claude helps you sharpen vague questions into specific investigations, design the analysis (segments, time ranges, comparisons), spot patterns in the data, and build an audience-specific narrative with recommendations. You bring the product context that turns numbers into meaning.
+
+**What you get:** Sharpened investigation questions, structured analysis, pattern identification with root cause hypotheses, and an insights narrative with specific recommendations.
 
 ---
 
