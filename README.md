@@ -1,5 +1,6 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+![Skills](https://img.shields.io/badge/skills-15-orange?style=flat-square)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-Plugin-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![AI-Native](https://img.shields.io/badge/AI--Native_PM-ff6b35?style=flat-square)
 
