@@ -4,6 +4,18 @@ All notable changes to Lean PM Skills are documented here. This project follows 
 
 ---
 
+## [1.3.0] — 2026-04-26
+
+### Added
+- **Financial Analysis** skill — ROI, IRR, NPV, payback period, cost-benefit analysis with sensitivity modeling
+- **Business Case** skill — complete business case with strategic rationale, financial model, alternatives, risk assessment
+- New "Financial & Investment" skill category in README
+
+### Changed
+- Skills count updated to 25
+
+---
+
 ## [1.2.1] — 2026-04-26
 
 ### Added

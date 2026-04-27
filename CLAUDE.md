@@ -276,3 +276,5 @@ This plugin includes focused skills for specific PM tasks. Skills load on invoca
 | [Story Writing](skills/story-writing/SKILL.md) | Writing developer-ready stories with testable acceptance criteria |
 | [Story Breakdown](skills/story-breakdown/SKILL.md) | Decomposing large problems or epics into shippable slices |
 | [Analytics & Insights](skills/analytics-insights/SKILL.md) | Deep product data investigation beyond routine dashboards |
+| [Financial Analysis](skills/financial-analysis/SKILL.md) | ROI, IRR, NPV, payback period, and cost-benefit analysis |
+| [Business Case](skills/business-case/SKILL.md) | Full business case for executive approval of a major initiative |

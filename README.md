@@ -1,6 +1,6 @@
-![Version](https://img.shields.io/badge/version-1.2.1-blue?style=flat-square)
+![Version](https://img.shields.io/badge/version-1.3.0-blue?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
-![Skills](https://img.shields.io/badge/skills-23-orange?style=flat-square)
+![Skills](https://img.shields.io/badge/skills-25-orange?style=flat-square)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-Plugin-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![AI-Native](https://img.shields.io/badge/AI--Native_PM-ff6b35?style=flat-square)
 
@@ -88,6 +88,13 @@ See [CURSOR.md](CURSOR.md) for details.
 | **[Feature Specification](skills/feature-specification/SKILL.md)** | Detail a feature with requirements, edge cases, and integration points | 30-60 min |
 | **[Story Writing](skills/story-writing/SKILL.md)** | Write user stories with testable acceptance criteria and splitting guidance | 15-25 min |
 | **[Story Breakdown](skills/story-breakdown/SKILL.md)** | Decompose large epics or problems into independently shippable slices | 1 hour |
+
+### 💰 Financial & Investment
+
+| Skill | What It Does | Time |
+|---|---|---|
+| **[Financial Analysis](skills/financial-analysis/SKILL.md)** | ROI, IRR, NPV, payback period, and cost-benefit analysis for product investments | 1-1.5 hours |
+| **[Business Case](skills/business-case/SKILL.md)** | Complete business case — strategic rationale, financial model, risk assessment, recommendation | 2-4 hours |
 
 ### 📊 Operations & Analysis
 
@@ -251,6 +258,16 @@ A metric moved — activation dipped, engagement spiked in one segment, conversi
 **With Lean PM Skills:** [Analytics & Insights](skills/analytics-insights/SKILL.md) structures a deep investigation in 1-2 hours. Claude helps you sharpen vague questions into specific investigations, design the analysis (segments, time ranges, comparisons), spot patterns in the data, and build an audience-specific narrative with recommendations. You bring the product context that turns numbers into meaning.
 
 **What you get:** Sharpened investigation questions, structured analysis, pattern identification with root cause hypotheses, and an insights narrative with specific recommendations.
+
+---
+
+### 💰 "Finance wants an ROI model before they'll approve the headcount."
+
+You know this initiative will pay off, but "trust me" doesn't get budget. Finance wants NPV, IRR, payback period, and sensitivity analysis. The traditional approach is weeks of back-and-forth with the finance team building spreadsheets.
+
+**With Lean PM Skills:** [Financial Analysis](skills/financial-analysis/SKILL.md) builds a rigorous financial model in about an hour — year-by-year cash flows, ROI, NPV, IRR, payback period, and three-scenario sensitivity analysis. When you need the full picture beyond just the numbers, [Business Case](skills/business-case/SKILL.md) wraps the financial model in strategic rationale, alternatives comparison, risk assessment, and an executive-ready recommendation in 2-4 hours.
+
+**What you get:** Year-by-year cash flow model, five financial metrics (ROI, NPV, IRR, payback, cost-benefit ratio), sensitivity analysis across three scenarios, and an investment summary document ready for finance and leadership review.
 
 ---
 
