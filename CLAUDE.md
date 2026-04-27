@@ -274,4 +274,5 @@ This plugin includes focused skills for specific PM tasks. Skills load on invoca
 | [Epic Definition](skills/epic-definition/SKILL.md) | Structuring an epic with features, milestones, and success metrics |
 | [Feature Specification](skills/feature-specification/SKILL.md) | Detailing a feature with requirements, edge cases, and integration points |
 | [Story Writing](skills/story-writing/SKILL.md) | Writing developer-ready stories with testable acceptance criteria |
+| [Story Breakdown](skills/story-breakdown/SKILL.md) | Decomposing large problems or epics into shippable slices |
 | [Analytics & Insights](skills/analytics-insights/SKILL.md) | Deep product data investigation beyond routine dashboards |

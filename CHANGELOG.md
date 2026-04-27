@@ -4,6 +4,16 @@ All notable changes to Lean PM Skills are documented here. This project follows 
 
 ---
 
+## [1.2.1] — 2026-04-26
+
+### Added
+- **Story Breakdown** skill — decompose large problems, epics, or initiatives into independently shippable slices using splitting patterns
+
+### Changed
+- Skills count updated to 23
+
+---
+
 ## [1.2.0] — 2026-04-26
 
 ### Added

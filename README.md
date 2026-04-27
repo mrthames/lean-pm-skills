@@ -1,6 +1,6 @@
-![Version](https://img.shields.io/badge/version-1.2.0-blue?style=flat-square)
+![Version](https://img.shields.io/badge/version-1.2.1-blue?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
-![Skills](https://img.shields.io/badge/skills-22-orange?style=flat-square)
+![Skills](https://img.shields.io/badge/skills-23-orange?style=flat-square)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-Plugin-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![AI-Native](https://img.shields.io/badge/AI--Native_PM-ff6b35?style=flat-square)
 
@@ -87,6 +87,7 @@ See [CURSOR.md](CURSOR.md) for details.
 | **[Epic Definition](skills/epic-definition/SKILL.md)** | Define an epic with strategic context, feature breakdown, and milestones | 1 hour |
 | **[Feature Specification](skills/feature-specification/SKILL.md)** | Detail a feature with requirements, edge cases, and integration points | 30-60 min |
 | **[Story Writing](skills/story-writing/SKILL.md)** | Write user stories with testable acceptance criteria and splitting guidance | 15-25 min |
+| **[Story Breakdown](skills/story-breakdown/SKILL.md)** | Decompose large epics or problems into independently shippable slices | 1 hour |
 
 ### 📊 Operations & Analysis
 
