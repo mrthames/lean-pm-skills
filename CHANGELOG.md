@@ -11,17 +11,6 @@ All notable changes to Lean PM Skills are documented here. This project follows 
 - **Roadmap Planning** skill — translate strategy and OKRs into sequenced, audience-specific roadmaps
 - Framework decision flowchart in FRAMEWORKS.md for choosing between similar frameworks
 - CHANGELOG.md for version tracking
-
-### Changed
-- Skills grouped by discipline in README (Discovery & Strategy, Execution & Delivery, Alignment & Communication, Operations & Analysis)
-- Reinforced lean validation language across all skills and guides
-- Improved "Choosing the Right Framework" section with decision guidance
-- Trimmed redundant Human-in-the-Loop content from EXAMPLES.md (points to CLAUDE.md)
-- Condensed "Measuring Impact" section in AI-NATIVE-WORKFLOW.md
-
-### Fixed
-- Unclosed markdown code blocks in TEMPLATES.md
-
 ---
 
 ## [1.0.0] — 2026-04-26
