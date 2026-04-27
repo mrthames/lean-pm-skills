@@ -8,9 +8,13 @@
 
 **AI-native product management skills that move at the speed your team needs.**
 
-Compress the mechanical PM work — research synthesis, artifact generation, framework execution — so you can focus on what only a human PM can do: stakeholder relationships, strategic decisions, and understanding problems worth solving.
+Traditional PM frameworks were built for a world without AI — multi-week discovery sprints, day-long planning offsites, months of analysis before a decision. Other projects apply those same traditional models to AI-native development and call it progress. This project takes a different approach: every skill is designed from the ground up for how product management actually works when AI is part of the team.
+
+Strategy, discovery, documentation, financials, analytics, delivery — every discipline compressed from weeks into hours.
 
 > 💡 **The philosophy:** You already know lean — eliminate waste, move fast, validate early. We just gave it an AI engine. Every skill in this plugin is designed for hours and days, not weeks and months. AI handles the first 80%. You handle the last 20% — the 20% that determines whether the product succeeds.
+>
+> **What this project is not:** A rehash of traditional PM playbooks with an AI label. Only skills that are optimized for AI-native speed will be added here. If a framework doesn't fit the emerging AI landscape — if it assumes weeks of manual synthesis or months of waterfall planning — it doesn't belong in this project.
 
 ---
 
